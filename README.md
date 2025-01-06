@@ -1,5 +1,4 @@
-Pharmacy Management System Using Microsoft Access
-A Pharmacy Management System (PMS) is a software application designed to manage and optimize the workflow of a pharmacy. When implemented using Microsoft Access, it provides a cost-effective solution to handle tasks such as inventory management, sales tracking, customer records, supplier information, and reporting.
+Pharmacy Management System Using Microsoft Access : is a software application designed to manage and optimize the workflow of a pharmacy. When implemented using Microsoft Access, it provides a cost-effective solution to handle tasks such as inventory management, sales tracking, customer records, supplier information, and reporting.
 
 Key Features of the System
 
